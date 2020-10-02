@@ -4,6 +4,6 @@ Given a set of n Jobs each of which is assigned a due-date and all jobs are stmu
 avialble to be processed on a single machine, the problem is to find the optimal job processing order
 that minimizes the sum of absolute devition of job completion times about their respectivly due-dates.
 
-## Solution 
+## Solutions 
 Dynamic Programming
 Naive Approach
