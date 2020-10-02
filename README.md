@@ -5,5 +5,5 @@ avialble to be processed on a single machine, the problem is to find the optimal
 that minimizes the sum of absolute devition of job completion times about their respectivly due-dates.
 
 ## Solutions 
-  1.Dynamic Programming  
-  2.Naive Approach
+  1. Dynamic Programming  
+  2. Naive Approach
